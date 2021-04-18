@@ -8,8 +8,6 @@ contains only red, green, or blue channels of the source image while
 permutecolorchannels swaps the color channels and restores the correct
 color components for the campus image with its colors permuted. Decrypt
 returns a noisy image to its original state by XORing the image key. 
-
-@author: Stephen Wright (svw2112)
 """
 
 import numpy as np
