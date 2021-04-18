@@ -1,6 +1,6 @@
-ENGI E1006 - Intro to Computing for Engineers & Applied Scientists
+**ENGI E1006 - Intro to Computing for Engineers & Applied Scientists**
 
-Preliminaries: 
+**Preliminaries: **
 
 The goal of this homework is to do some very simple image processing tasks, utilizing numpy to hold the image data, and to allow us to easily modify the image data. You will use matplotlib and numpy. Download the file  project4.py  download, which already contains the necessary imports. You will use the plt.imshow(img) method in matplotlib to display images. **It is important for this problem set to understand the structure of a numpy image**.
 
