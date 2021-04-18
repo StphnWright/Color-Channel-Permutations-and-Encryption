@@ -28,7 +28,7 @@ Write the function onechannel(pattern, rgb), which should return a new pattern t
     rgb = 1, display green
     rgb = 2, display blue
 
-**Part 2 - Channel Permutations (35 points) **
+**Part 2 - Channel Permutations (35 points)**
 
 Define the function permutecolorchannels(img, perm). perm is a list of 0,1,2 in some order, which specifies how to permute the color channels.
 
